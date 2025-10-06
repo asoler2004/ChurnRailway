@@ -1,1 +1,9 @@
 fastapi[all]
+pandas
+numpy
+scikit-learn
+xgboost
+uvicorn
+pydantic
+joblib
+requests
